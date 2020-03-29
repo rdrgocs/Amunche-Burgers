@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Amunche Burgers</string>
+    <string name="sandwiches">Hamburguesas</string>
+    <string name="sobreNosotros">Sobre Nosotros</string>
+    <string name="menu_hamburguesas">Nuestras Hamburguesas</string>
+    <string name="titulo_detalle">Hamburguesa: </string>
+
+    <string name="about">Amunche Burgers es una empresa familiar con más de 5 años de trayectoria, dedicada a recorrer los diferentes continentes
+        del mundo con la finalidad de entregar a nuestros clientes la experiencia culinaria a través de nuestras hamburguesas. </string>
+
+    <string name="boton_americana">La Americana</string>
+    <string name="boton_europea">La Europea</string>
+    <string name="boton_asiatica">La Asiática</string>
+    <string name="boton_africana">La Africana</string>
+    <string name="boton_oceanica">La Oceánica</string>
+
+    <string name="nombre_americana">La Americana</string>
+    <string name="nombre_europea">La Europea</string>
+    <string name="nombre_asiatica">La Asiática</string>
+    <string name="nombre_africana">La Africana</string>
+    <string name="nombre_oceanica">La Oceánica</string>
+
+    <string name="imagen_americana">americana</string>
+    <string name="imagen_europea">europea</string>
+    <string name="imagen_asiatica">asiatica</string>
+    <string name="imagen_africana">africana</string>
+    <string name="imagen_oceanica">oceanica</string>
+
+    <string name="tipo_sandwich">Categoría: Sabores del Mundo</string>
+
+    <string name="detalle_americana">Pan artesano con semillas de sésamo, 250 grs. de carne de res envuelta en finas
+        tiras de tocino, queso cheddar, aros de cebolla y salsa barbecue.</string>
+    <string name="detalle_europea">Pan artesano con mix de semillas, 200 grs. de filete de pollo, queso azul, rúcula,
+        champiñones salteados, cebolla caramelizada, acompañado de una salsa de orégano.</string>
+    <string name="detalle_asiatica">Pan artesano con semillas de amapola, 200 grs. de cerdo teriyaki, finas tiras de cebollín,
+        dientes de dragón y champiñones salteados, acompañados de salsa de tamarindo o wasabi.</string>
+    <string name="detalle_africana">Pan artesano de aceitunas verdes, 200 grs de hamburguesa de lentejas, tomate cherry,
+        trozos de palta, maíz y cebolla salteada, acompañado de humus de zanahoria. (Veggie)</string>
+    <string name="detalle_oceanica">Pan artesano de remolacha, 200 grs de barramundi frito a las finas hierbas, queso fundido,
+        pimentón verde y amarillo, mix de hojas verdes, acompañado de salsa blanca de camarones.</string>
+
+    <string name="precio_americana">PRECIO: $6.590</string>
+    <string name="precio_europea">PRECIO: $5.390</string>
+    <string name="precio_asiatica">PRECIO: $5.990</string>
+    <string name="precio_africana">PRECIO: $6.990</string>
+    <string name="precio_oceanica">PRECIO: $4.990</string>
+
+    <string name="promocion_americana">PROMOCIÓN: 2 X $12.000</string>
+    <string name="promocion_europea">PROMOCIÓN: 2 X $10.000</string>
+    <string name="promocion_asiatica">PROMOCIÓN: 2 X $11.000</string>
+    <string name="promocion_africana">PROMOCIÓN: 2 X $12.500</string>
+    <string name="promocion_oceanica">PROMOCIÓN: 2 X $8.000</string>
+
+</resources>
